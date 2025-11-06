@@ -1,0 +1,2 @@
+# ML-Mini-Models
+⚙️ Tech Stack  🐍 Python  📦 Scikit-learn, Pandas, Numpy  📉 Matplotlib, Seaborn for visualization  📒 Jupyter Notebooks
